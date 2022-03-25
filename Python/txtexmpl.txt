@@ -1,0 +1,4 @@
+H!! Welcome to new lesson of learning python!
+In this lesson we will learn about learning using files python.
+Stay tuned and follow for learning new lessons
+Thnk you! bye! take care!
